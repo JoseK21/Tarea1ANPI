@@ -1,0 +1,9 @@
+Name: SolNE
+Version: 1.0.0
+Date: 2019-08-25
+Title: Solving Non Linear Equations
+Author: Jung Bak
+Maintainer: Jung Bak
+License: GPLv3+
+Description: Paquete computacional en Octave con metodos de aproximacion de raices
+Categories: aproximacion de raices
